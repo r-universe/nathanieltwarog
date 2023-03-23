@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "braidReports"]
+	path = braidReports
+	url = https://github.com/cran/braidReports
+	shallow = true
+	registered = true
 [submodule "braidrm"]
 	path = braidrm
 	url = https://github.com/nathanieltwarog/braidrm
