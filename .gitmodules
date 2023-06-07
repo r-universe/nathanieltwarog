@@ -13,3 +13,8 @@
 	url = https://github.com/nathanieltwarog/braidrm
 	shallow = true
 	registered = true
+[submodule "rtms"]
+	path = rtms
+	url = https://github.com/cran/rtms
+	shallow = true
+	registered = true
