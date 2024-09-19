@@ -7,7 +7,7 @@
 	url = https://github.com/cran/basicdrm
 [submodule "braidReports"]
 	path = braidReports
-	url = https://github.com/cran/braidReports
+	url = https://github.com/nathanieltwarog/braidreports
 [submodule "braidrm"]
 	path = braidrm
 	url = https://github.com/nathanieltwarog/braidrm
