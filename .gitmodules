@@ -14,3 +14,6 @@
 [submodule "rtms"]
 	path = rtms
 	url = https://github.com/cran/rtms
+[submodule "rtmsEcho"]
+	path = rtmsEcho
+	url = https://github.com/cran/rtmsEcho
